@@ -14,7 +14,8 @@ Let’s dive in!
 
 The first part of our analysis is based on total rides, drivers, and fares for each type of city, such as: urban, suburban and rural, and the average fare per ride and per driver.
 
-![](totals.png)
+<img width="1216" alt="totals" src="https://user-images.githubusercontent.com/112814924/198365184-be301075-714b-4d59-88c2-a403d135f230.png">
+
 
 As we can see, rural cities have 10-13 times fewer drivers, rides and therefore the total amount of fares is also too low compared to urban and suburban cities.
 
@@ -24,12 +25,14 @@ An important comment is that this affects the drivers more than the riders (larg
 
 We’re now going to analyse the total weekly of the fares for each type of city.
 
-![](weekly.png)
+<img width="1216" alt="weekly" src="https://user-images.githubusercontent.com/112814924/198365211-0d295a77-b51d-4f50-8809-97ffd00d879b.png">
+
 
 We must understand that the fares will always change and this is due to supply and demand. However, based on our chart, fares were lower in suburban cities from March to April, this may be due to the increase in drivers. In the case of rural cities, it can be seen that the rates are usually higher for the user due to the lack of drivers.
 ## Summary
 
-![](chart.png)
+<img width="1083" alt="chart" src="https://user-images.githubusercontent.com/112814924/198365238-37221a86-73f4-4cfb-825f-03ad50f0558f.png">
+
 
 The success of a multi-sided platform business model such as Pyber depends heavily on the interaction between both the drivers and the riders.
 The results in the table show clearly that: The average fare per ride and driver depends on the supply and demand of drivers and riders. 
