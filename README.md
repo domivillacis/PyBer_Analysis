@@ -46,7 +46,7 @@ A recommendation for our CEO is to be aware that the current situation may cause
 On the other hand, we also advise our CEO to keep in mind that she can expect a drop in ridership in rural and suburban areas because the average fare is relatively high.
 
 ### Resources
-Data Source: city_data.csv, rie_data.csv
+Data Source: city_data.csv, ride_data.csv
 
 Software: Jupyter Notebook 
 
