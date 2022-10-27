@@ -28,22 +28,22 @@ We’re now going to analyse the total weekly of the fares for each type of city
 <img width="1216" alt="weekly" src="https://user-images.githubusercontent.com/112814924/198365211-0d295a77-b51d-4f50-8809-97ffd00d879b.png">
 
 
-We must understand that the fares will always change and this is due to supply and demand. However, based on our chart, fares were lower in suburban cities from March to April, this may be due to the increase in drivers. In the case of rural cities, it can be seen that the rates are usually higher for the user due to the lack of drivers.
+We must understand that the fares will always change and this is due to supply and demand. However, based on our chart, fares were lower in suburban cities from March to April, this may be due to the increase in drivers. And in the case of rural cities, it can be seen that the rates are usually higher for the user due to the lack of drivers.
 ## Summary
 
 <img width="1083" alt="chart" src="https://user-images.githubusercontent.com/112814924/198365238-37221a86-73f4-4cfb-825f-03ad50f0558f.png">
 
 
 The success of a multi-sided platform business model such as Pyber depends heavily on the interaction between both the drivers and the riders.
-The results in the table show clearly that: The average fare per ride and driver depends on the supply and demand of drivers and riders. 
+The results in the chart show clearly that: The average fare per ride and driver depends on the supply and demand of drivers and riders. 
 
 Obviously, keeping the fare price down attracts more riders to the app, but in order for that situation to occur you need a high supply of drivers using the app, but drivers will be attracted to the app if the fare price per driver is high. This is the dependency mentioned above.
 
-Another important take away is that the situation where the supply of drivers exceeds the riders is in urban areas.
-In rural and suburban areas, the numbers of riders exceed the drivers. 
+Another important takeaway is that the situation where the supply of drivers exceeds the riders is in urban areas. In rural and suburban areas, the number of riders exceed the drivers. 
 
-A recommendation for our CEO is to be aware of this that the current situation can lead to a drop of drivers since their average fare is relatively low. 
-On the other hand, we also recommend our CEO to be aware that she can expect a drop of riders in rural and suburban areas because the average fare is relatively high.
+A recommendation for our CEO is to be aware that the current situation may cause a loss of drivers since their average fare is relatively low.
+
+On the other hand, we also advise our CEO to keep in mind that she can expect a drop in ridership in rural and suburban areas because the average fare is relatively high.
 
 ### Resources
 Data Source: city_data.csv, rie_data.csv
